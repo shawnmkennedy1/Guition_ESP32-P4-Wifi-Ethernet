@@ -1,0 +1,18 @@
+{
+    "idf.adapterTargetName": "esp32p4",
+    "idf.customExtraPaths": "C:\\Espressif\\tools\\riscv32-esp-elf\\esp-13.2.0_20250707\\riscv32-esp-elf\\bin;C:\\Espressif\\tools\\cmake\\3.24.0\\bin;C:\\Espressif\\tools\\ninja\\1.11.1;C:\\Espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20240318\\openocd-esp32\\bin",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "C:\\Espressif\\tools\\openocd-esp32\\v0.12.0-esp32-20240318\\openocd-esp32\\share\\openocd\\scripts",
+        "IDF_CCACHE_ENABLE": "1"
+    },
+    "idf.currentSetup": "C:/Espressif/frameworks/esp-idf-v5.3.1/",
+    "idf.flashType": "UART",
+    "idf.portWin": "COM4",
+    "idf.monitorPort": "COM11",
+    "idf.openOcdConfigs": [
+        "board/esp32p4-builtin.cfg"
+    ],
+    "idf.sdkconfigDefaults": [
+        "sdkconfig.defaults"
+    ]
+}
